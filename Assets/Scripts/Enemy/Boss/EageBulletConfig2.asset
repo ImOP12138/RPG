@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f22279fa815289648a8e221790aed76f, type: 3}
+  m_Name: EageBulletConfig2
+  m_EditorClassIdentifier: 
+  LifeCycle: 3.8
+  LinerVelocity: 0
+  Acceleration: 10
+  AngularVelocity: 0
+  AngularAcceleration: -50
+  MaxVelocity: 2.147484e+9
+  InitRotation: 0
+  SenderAngularVelocity: 5
+  SenderMaxAngularVelocity: 2.1474836e+9
+  SenderAcceleration: 0
+  count: 4
+  LinerAngle: 90
+  SendInterval: 0.1
+  prefabs: {fileID: 2374427512614853399, guid: e9c013767675e15428a213fdf464b1fe, type: 3}
